@@ -4,7 +4,7 @@
     <root id="root">
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
-          <element id="module-output" name="Axis2HelloWorld" />
+          <element id="module-output" name="axis2-helloworld" />
         </element>
         <element id="directory" name="lib">
           <element id="library" level="project" name="Maven: org.apache.axis2:axis2:1.6.2" />
@@ -51,7 +51,7 @@
       <element id="directory" name="META-INF">
         <element id="file-copy" path="$PROJECT_DIR$/target/Axis2HelloWorld/META-INF/MANIFEST.MF" />
       </element>
-      <element id="javaee-facet-resources" facet="Axis2HelloWorld/web/Web" />
+      <element id="javaee-facet-resources" facet="axis2-helloworld/web/Web" />
     </root>
   </artifact>
 </component>
